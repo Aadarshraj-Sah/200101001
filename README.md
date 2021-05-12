@@ -49,12 +49,12 @@ int main() {
 > I am currently learning C++ and very much eager to learn other languages as well.
 
 1. Competitive Programming
-    * It is very fascinating, solving challenging questions within time limit reminds me of JEE Maths(I used to enjoy that so I am enjoying coding too)
-    * 3 stars in HackerRank
+    * It is very fascinating, solving challenging questions within time limit reminds me of JEE Maths(I used to enjoy that so I am enjoying coding too).
+    * 3 stars in HackerRank.
 2. App Development
     * Planning to start learning flutter.
 3. Web Development
-    * I have also planned to make a website to post all my JEE and Olympiads material. So will be learning WebD after AppD
+    * I have also planned to make a website to post all my JEE and Olympiads material. So will be learning WebD after AppD.
 4. Open Source
     * collaborating for projects all across the world is really cool. Have plans for GSoC also.:)
     
