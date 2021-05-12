@@ -2,7 +2,7 @@
 ## 200101001
 
 
-
+#### CODING WEEK SCHEDULE
 | Event name    | Event Dates    |Gone through the resources|
 | ------------- |:-------------:| -----:                    |
 | OPEN SOURCE   | 10/5/2021     | YES                       |
@@ -14,7 +14,7 @@
 |APP DEVELOPMENT | 16/5/2021 | NO |
 
 
-
+####Program to find sum of ASCII values of my name.
 ```cpp
 #include <iostream>
 #include <string>
