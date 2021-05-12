@@ -36,6 +36,6 @@ int main() {
 ```
 
 
-our logo:
-![alt text] ()
+
+![alt text] (https://github.com/codingiitg/open_source_submission/blob/main/coding-club%20logo.png "Coding Club,IIT-G ")
 
