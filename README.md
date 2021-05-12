@@ -15,7 +15,7 @@
 
 
 
-
+```cpp
 #include <iostream>
 #include <string>
 using namespace std;
@@ -33,4 +33,9 @@ int main() {
     cout<<"Sum of ASCII values of my name is = "<<ans<<endl;
     return 0;
 }
+```
+
+
+our logo:
+![alt text] ()
 
