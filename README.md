@@ -16,4 +16,21 @@
 
 
 
-coding club open source task
+#include <iostream>
+#include <string>
+using namespace std;
+
+int main() {
+    char a;
+    int ans=0;
+    
+    string st ="AadarshrajSah" ;
+    for (int i=0; i < st.length(); i++){
+        a = st[i];
+        ans+=int(a);
+    
+    }
+    cout<<"Sum of ASCII values of my name is = "<<ans<<endl;
+    return 0;
+}
+
