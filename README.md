@@ -50,6 +50,7 @@ int main() {
 
 1. Competitive Programming
     * It is very fascinating, solving challenging questions within time limit reminds me of JEE Maths(I used to enjoy that so I am enjoying coding too)
+    * 3 stars in HackerRank
 2. App Development
     * Planning to start learning flutter.
 3. Web Development
