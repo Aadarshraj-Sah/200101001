@@ -14,7 +14,7 @@
 |APP DEVELOPMENT | 16/5/2021 | NO |
 
 
-####Program to find sum of ASCII values of my name.
+#### Program to find sum of ASCII values of my name.
 ```cpp
 #include <iostream>
 #include <string>
